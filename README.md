@@ -1,1 +1,1 @@
-# verbose-octo-barnacle
+Numbers nerd post. I lined up the prices of three contractor billing apps after reading https://prooffeed.com/invoicing-apps-for-contractors and the spread is wild. Joist runs $10 to $32 a month, and the top tier adds change orders and business reports. Jobber starts at $39 for one person and goes up to $599 for a 15 user plan, with extra seats at $29 each and a two week trial. Housecall Pro begins at $59 on annual billing, then $149, then $299 for MAX. My take: only pay for dispatch features if you truly need them.# verbose-octo-barnacle
